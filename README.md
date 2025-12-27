@@ -277,8 +277,6 @@ Once you've run `interact <agent_name>`:
 ![Agents](screenshots/agents.png)
 *Managing multiple concurrent agent sessions*
 
-> 📌 **Note:** Add your own screenshots to the `screenshots/` folder
-
 ---
 
 ## 🏗️ Architecture
@@ -406,18 +404,6 @@ conn.commit()
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ## ⚠️ Disclaimer
 
 <table>
@@ -454,7 +440,7 @@ This project is for educational purposes only. Use responsibly.
 
 **Rushabh Bhutak**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@bhutakru](https://github.com/bhutakru)
 
 ---
 
@@ -465,3 +451,4 @@ This project is for educational purposes only. Use responsibly.
 <p align="center">
   Made with ❤️ for the security community
 </p>
+
